@@ -15,7 +15,7 @@
 リンク
 
 * サポートサイト: <https://amane-uehara.github.io/cpubook>
-* サンプルコード: <https://amane-uehara.github.io/cpubook-code>
+* サンプルコード: <https://github.com/amane-uehara/cpubook-code>
 * マイナビ出版: <https://book.mynavi.jp/ec/products/detail/id=116654>
 * Amazon: <https://www.amazon.co.jp/dp/4839968519>
 
