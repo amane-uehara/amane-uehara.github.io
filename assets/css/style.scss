@@ -31,4 +31,7 @@ $hr-border-color: #eff0f1 !default;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
+  @include large  { padding: 1rem 1rem; }
+  @include medium { padding: 1rem 1rem; }
+  @include small  { padding: 1rem 1rem; }
 }
